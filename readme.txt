@@ -11,7 +11,7 @@ Transactions on Intelligent Transportation System.
 Version history:
 *******************************************************
 v0.1 - Simple model using smtlib notation, described in FM12 paper
-v0.2 - More general model submitted to Transactions on ITS
+v0.2 - More general model submitted for publication
 
 Files:
 *******************************************************
